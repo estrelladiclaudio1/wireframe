@@ -1,0 +1,271 @@
+body {
+    background-color: rgb(253, 223, 231);
+}
+
+.logo {
+    width: 200px;
+    height: 150px;
+    margin-right: 100px;
+    margin-left: 20px;
+    text-align: left;
+}
+
+h1 {
+    text-align: center;
+    font-size:400%;
+    padding: 4px;
+}
+
+h1:hover{
+    background-color: #fdc1f2;
+}
+.boton {
+    text-align: center;
+    font-size:150%;
+}
+
+.boton ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+
+.boton ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+.boton ul li a {
+    color: #ff00ea;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.boton ul li a:hover {
+    background-color: #fdc1f2;
+}
+
+.tercerparrafo,
+.dosparrafo,
+.unoparrafo {
+    border: 2px;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    background-color: #e013a3;
+    margin: 10px; 
+    width: 300px; 
+    height: 210px;
+    box-sizing: border-box;
+}
+
+.parrafos {
+    display: flex;
+    justify-content: center;
+}
+.parrafos p {
+    width: 30%;
+    height: auto;
+    border-radius: 10px;
+    padding: 4px;
+}
+.parrafos p:hover{
+    background-color: #ffc2f5;
+}
+
+.foton {
+    justify-content: center;
+    position: relative;
+    display: flex;
+}
+
+.foton img {            
+    width: 70%;
+    height: auto;
+    border-radius: 10px;
+    padding: 4px;
+}
+
+.foton img:hover {
+    background-color: #f774df; 
+}
+
+.foton .marca1 {
+    position: absolute;
+    bottom: 10px; 
+    right: 16%; 
+    font-size: 1.5em; 
+    color: rgba(226, 80, 194, 0.849); 
+    background-color: rgba(255, 255, 255, 0.5); 
+    padding: 3px;
+    border-radius: 3px; 
+}
+
+body {
+    background-color: rgb(253, 223, 231);
+}
+
+.logo {
+    width: 200px;
+    height: 150px;
+    margin-right: 100px;
+    margin-left: 20px;
+    text-align: left;
+}
+
+h1 {
+    text-align: center;
+    font-size:400%;
+    padding: 4px;
+}
+
+h1:hover{
+    background-color: #fdc1f2;
+}
+.boton {
+    text-align: center;
+    font-size:150%;
+}
+
+.boton ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+
+.boton ul li {
+    display: inline;
+    margin: 0 10px;
+}
+
+.boton ul li a {
+    color: #ff00ea;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+.boton ul li a:hover {
+    background-color: #fdc1f2;
+}
+
+.tercerparrafo,
+.dosparrafo,
+.unoparrafo {
+    border: 2px;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: center;
+    background-color: #e013a3;
+    margin: 10px; 
+    width: auto; 
+    height: auto;
+    box-sizing: border-box;
+}
+
+.parrafos {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+.parrafos p {
+    width: 30%;
+    height: auto;
+    border-radius: 10px;
+    padding: 10px;
+}
+.parrafos p:hover{
+    background-color: #ffc2f5;
+}
+    
+.foton {
+    justify-content: center;
+    position: relative;
+    display: flex;
+}
+
+.foton img {            
+    width: 70%;
+    height: auto;
+    border-radius: 10px;
+    padding: 4px;
+}
+
+.foton img:hover {
+    background-color: #f774df; 
+}
+
+.foton .marca1 {
+    position: absolute;
+    bottom: 10px; 
+    right: 16%; 
+    font-size: 1.5em; 
+    color: rgba(226, 80, 194, 0.849); 
+    background-color: rgba(255, 255, 255, 0.5); 
+    padding: 3px;
+    border-radius: 3px; 
+}
+.imagenes {
+    position: relative;
+    display: flex;
+    gap: 80px;
+    justify-content: center;
+    padding: 20px;
+}
+
+.imagenes img {
+    width: 20%;
+    height: auto;
+    border-radius: 10px;
+    padding: 4px;
+}
+
+.imagenes img:hover {
+    background-color: #f774df; 
+}
+
+.uno{
+    position: absolute;
+    bottom: 26px; 
+    left: 30%; 
+    font-size: 1em; 
+    color: rgba(248, 199, 238, 0.849); 
+    background-color: rgba(134, 32, 121, 0.5); 
+    padding: 3px;
+    border-radius: 3px; 
+  
+}
+.dos{
+    position: absolute;
+    bottom: 26px; 
+    right:41%; 
+    font-size: 1em; 
+    color: rgba(248, 199, 238, 0.849); 
+    background-color: rgba(134, 32, 121, 0.5); 
+    padding: 3px;
+    border-radius: 3px; 
+  
+}
+.tres{
+    position: absolute;
+    bottom: 26px; 
+    right: 17%; 
+    font-size: 1em; 
+    color: rgba(248, 199, 238, 0.849); 
+    background-color: rgba(134, 32, 121, 0.5); 
+     padding: 3px;
+    border-radius: 3px; 
+
+}
+.imagenes img:hover {
+    background-color: #f774df; 
+}
+
+.sub {
+    display: block;
+    margin-bottom: 10px; 
+    font-size: 1.5em; 
+    color: #ff5ddc; 
+    text-decoration: underline;
+}
